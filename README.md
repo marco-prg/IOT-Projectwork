@@ -22,7 +22,7 @@ cd IOT-Projectwork
 
 - After that, run the following commands:
 ```bash
-cd IOT-Projectwork/src
+cd src
 mkdir build 
 cd build
 cmake ..

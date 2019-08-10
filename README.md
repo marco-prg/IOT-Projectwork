@@ -2,7 +2,7 @@
 Project work of the Internet of Things based Smart Systems course at the University of Catania.
 
 ## Topic
-Configurable Multi-layer Perceptron for Neuron Criticality Analysis and Approximate Computing.
+** Configurable Multi-layer Perceptron for Neuron Criticality Analysis and Approximate Computing **
 - Neuron Criticality Analysis: see [ApproxANN](https://ieeexplore.ieee.org/iel7/7076741/7092347/07092478.pdf).
 - Approximate Computing technique: reduction of bits used to store the weights of the neural network neurons.
 
@@ -36,7 +36,7 @@ cd network
 ./main
 ```
 ## Screenshots
-- Main menu:
+###  Main menu:
 ![screenshots](screenshots/main.png)
 
 ## External Projects
